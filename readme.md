@@ -1,5 +1,5 @@
 # MikkoUIv3
-[MikkoUI](MikkoUIv3) is based on ElvUI for World of Warcraft. Layouts being changed for various of reasons such as PvP, PvE based game modes.
+[MikkoUI](https://github.com/HelloMikko/MikkoUIv3) is based on ElvUI for World of Warcraft. Layouts being changed for various of reasons such as PvP, PvE based game modes.
 
 
 ## Contributing
@@ -10,4 +10,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © {{ year }} {{ author }}
+[ISC](LICENSE) © 2022 [MikkoUI](https://github.com/HelloMikko/MikkoUIv3)
